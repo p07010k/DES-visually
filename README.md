@@ -39,7 +39,7 @@ Key used: b742c7238bcca586
 Decrypting...
 Plaintext: November
 ```
-We decrypted the initial string.
+We have decrypted the initial string.
 
 ### 2. desvisually.py
 The `desvisually.py` script has no arguments.
